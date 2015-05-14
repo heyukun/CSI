@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="10dp"
+    android:paddingLeft="10dp">
+
+    <Button
+        android:id="@+id/imageview"
+        android:layout_width="@dimen/mainPage_item_width"
+        android:layout_height="@dimen/mainPage_item_height"
+        android:scaleType="fitCenter"
+        android:text="@string/mainPage_item_1" >
+    </Button>
+
+</RelativeLayout>

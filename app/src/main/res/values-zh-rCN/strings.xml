@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">工地巡视</string>
+    <string name="action_settings">设置</string>
+    <string name="mainPage_item_1">基坑巡视</string>
+</resources>
